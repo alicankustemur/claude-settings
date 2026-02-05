@@ -1,0 +1,25 @@
+{
+  "attribution": {
+    "commit": ""
+  },
+  "permissions": {
+    "allow": [
+      "Bash(kubectl:*)",
+      "Bash(terraform plan:*)",
+      "Bash(terraform lint:*)",
+      "Bash(terraform init:*)",
+      "Bash(terraform validate:*)",
+      "Bash(grep:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git pull:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(docker:*)",
+      "Bash(docker-compose:*)",
+      "Bash(helm:*)",
+      "Bash(go:*)",
+      "Bash(aws:*)"
+    ]
+  }
+}
