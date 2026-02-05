@@ -36,4 +36,4 @@ The following commands run without approval prompts:
 | **Navigation** | `cd`, `pwd`, `basename`, `dirname`, `realpath` |
 | **Permissions** | `chmod`, `chown` |
 | **Compression** | `tar`, `zip`, `unzip`, `gzip`, `gunzip` |
-| **System** | `echo`, `env`, `export`, `source`, `which`, `whoami`, `date`, `df`, `du`, `ps`, `top`, `htop`, `kill`, `history`, `xargs`, `tee` |
+| **System** | `echo`, `env`, `export`, `source`, `which`, `whoami`, `date`, `df`, `du`, `ps`, `top`, `htop`, `history`, `xargs`, `tee` |

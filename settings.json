@@ -75,7 +75,6 @@
       "Bash(ps:*)",
       "Bash(top:*)",
       "Bash(htop:*)",
-      "Bash(kill:*)",
       "Bash(history:*)",
       "Bash(xargs:*)",
       "Bash(tee:*)",
