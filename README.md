@@ -30,5 +30,10 @@ The following commands run without approval prompts:
 | **Package Managers** | `pip`, `pip3` |
 | **Cloud** | `aws` |
 | **Network** | `ssh`, `curl`, `wget`, `nc` |
-| **Data Processing** | `jq`, `yq`, `grep` |
+| **Data Processing** | `jq`, `yq`, `grep`, `sed`, `awk`, `tr`, `cut`, `paste`, `column`, `sort`, `uniq`, `wc` |
 | **Build** | `make` |
+| **File Operations** | `ls`, `cp`, `mv`, `rm`, `mkdir`, `rmdir`, `touch`, `cat`, `head`, `tail`, `less`, `more`, `find`, `diff`, `file`, `stat`, `tree` |
+| **Navigation** | `cd`, `pwd`, `basename`, `dirname`, `realpath` |
+| **Permissions** | `chmod`, `chown` |
+| **Compression** | `tar`, `zip`, `unzip`, `gzip`, `gunzip` |
+| **System** | `echo`, `env`, `export`, `source`, `which`, `whoami`, `date`, `df`, `du`, `ps`, `top`, `htop`, `kill`, `history`, `xargs`, `tee` |
