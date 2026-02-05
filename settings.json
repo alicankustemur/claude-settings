@@ -15,11 +15,30 @@
       "Bash(git pull:*)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
+      "Bash(git add:*)",
+      "Bash(git checkout:*)",
+      "Bash(git stash:*)",
+      "Bash(git log:*)",
+      "Bash(git push:*)",
       "Bash(docker:*)",
       "Bash(docker-compose:*)",
       "Bash(helm:*)",
       "Bash(go:*)",
-      "Bash(aws:*)"
+      "Bash(aws:*)",
+      "Bash(eksctl:*)",
+      "Bash(ssh:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(pip:*)",
+      "Bash(pip3:*)",
+      "Bash(jq:*)",
+      "Bash(yq:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(nc:*)",
+      "Bash(make:*)",
+      "Bash(npm:*)",
+      "Bash(node:*)"
     ]
   }
 }
