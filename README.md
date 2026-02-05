@@ -32,7 +32,7 @@ The following commands run without approval prompts:
 | **Network** | `ssh`, `curl`, `wget`, `nc` |
 | **Data Processing** | `jq`, `yq`, `grep`, `sed`, `awk`, `tr`, `cut`, `paste`, `column`, `sort`, `uniq`, `wc` |
 | **Build** | `make` |
-| **File Operations** | `ls`, `cp`, `mv`, `rm`, `mkdir`, `rmdir`, `touch`, `cat`, `head`, `tail`, `less`, `more`, `find`, `diff`, `file`, `stat`, `tree` |
+| **File Operations** | `ls`, `cp`, `mv`, `mkdir`, `rmdir`, `touch`, `cat`, `head`, `tail`, `less`, `more`, `find`, `diff`, `file`, `stat`, `tree` |
 | **Navigation** | `cd`, `pwd`, `basename`, `dirname`, `realpath` |
 | **Permissions** | `chmod`, `chown` |
 | **Compression** | `tar`, `zip`, `unzip`, `gzip`, `gunzip` |
