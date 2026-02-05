@@ -22,10 +22,13 @@ The following commands run without approval prompts:
 
 | Category | Commands |
 |----------|----------|
-| **Kubernetes** | `kubectl` |
+| **Kubernetes** | `kubectl`, `eksctl`, `helm` |
 | **Terraform** | `terraform plan`, `terraform lint`, `terraform init`, `terraform validate` |
-| **Git** | `git commit`, `git branch`, `git pull`, `git status`, `git diff` |
-| **Containers** | `docker`, `docker-compose`, `helm` |
-| **Languages** | `go` |
+| **Git** | `git commit`, `git branch`, `git pull`, `git push`, `git status`, `git diff`, `git add`, `git checkout`, `git stash`, `git log` |
+| **Containers** | `docker`, `docker-compose` |
+| **Languages** | `go`, `python`, `python3`, `node`, `npm` |
+| **Package Managers** | `pip`, `pip3` |
 | **Cloud** | `aws` |
-| **Other** | `grep` |
+| **Network** | `ssh`, `curl`, `wget`, `nc` |
+| **Data Processing** | `jq`, `yq`, `grep` |
+| **Build** | `make` |
